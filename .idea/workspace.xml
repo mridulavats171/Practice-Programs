@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d209b69-aced-4704-beaa-366908022b3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Recursion/MobilePatterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/SubSeqList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/SubsetSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/DiceCombinations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/Recursion/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/Recursion/Permutations.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,20 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MobilePatterns">
+  <component name="RunManager" selected="Application.DiceCombinations">
+    <configuration name="DiceCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.DiceCombinations" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MobilePatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.MobilePatterns" />
       <module name="practice" />
@@ -58,19 +70,6 @@
     </configuration>
     <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Permutations" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SkipCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.SkipCharacter" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MobilePatterns" />
+        <item itemvalue="Application.DiceCombinations" />
         <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.MobilePatterns" />
         <item itemvalue="Application.SubSeqList" />
         <item itemvalue="Application.SubsetSequence" />
-        <item itemvalue="Application.SkipCharacter" />
       </list>
     </recent_temporary>
   </component>

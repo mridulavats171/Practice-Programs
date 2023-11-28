@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Permutations {
     public static void main(String[] args) {
-        permuitations("", "abcd");
+        permuitations("", "123");
         ArrayList<String> lsi = permuitationsList("", "hsb");
     }
 
